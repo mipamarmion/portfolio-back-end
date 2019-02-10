@@ -1,2 +1,2 @@
 # portfolio-back-end
-Spring boot powered back end for portfolio-web-app.
+Node.js powered back end for portfolio-web-app.
